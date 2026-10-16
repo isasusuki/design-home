@@ -1,0 +1,6 @@
+{
+  "name": "Y2K Dream House - Decoração & Puzzle Retrô",
+  "description": "Jogo nostálgico de restauração e decoração dos anos 2000 com puzzles match-3, cômodos temáticos e customização com texturas retrô autênticas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
